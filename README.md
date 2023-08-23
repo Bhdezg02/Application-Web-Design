@@ -7,6 +7,6 @@
 - **Grado:** Universidad
 - **Semestre:** 6to
 
-##**Datos de la materia:**
+####**Datos de la materia:**
 - **Materia:** Diseño de aplicaciones web
 - **Profesor:** Manuel Alejandro García Andrade
